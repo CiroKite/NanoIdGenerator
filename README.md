@@ -4,7 +4,7 @@ A simple Nano Id Generator to use as a console application
 
 ## Installation
 
-Install both [NodeJS an npm](https://nodejs.org/en/) and run
+Install both [NodeJS and npm](https://nodejs.org/en/) and run
 
 > npm install
 
