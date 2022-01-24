@@ -1,6 +1,6 @@
 'use strict';
 
-const nanoid = require('nanoid');
+const { nanoid } = require('nanoid');
 const count = Number(process.argv[2]) || 3;
 const size  = Number(process.argv[3]) || 15;
 
